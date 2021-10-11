@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "E:\\ProgramFiles\\Anaconda3\\envs\\PyTorch\\python.exe",
+    "python.formatting.provider": "yapf"
+}
